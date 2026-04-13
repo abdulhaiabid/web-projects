@@ -1,0 +1,11 @@
+#text-field,.output {
+  padding: 10px 20px;
+}
+
+.output {
+  height: 100px;
+  width: 300px;
+
+  color: white;
+  background-color: blueviolet;
+}
